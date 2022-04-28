@@ -70,6 +70,15 @@ article {
     
 }
 
+article div {
+    display: flex;
+}
+
+div img {
+    max-width: 100%;
+    
+}
+
 footer {
     font-size: 30px;
     text-align: center;
